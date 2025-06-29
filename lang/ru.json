@@ -1,0 +1,39 @@
+{
+  "SETTINGS.SimpleMacroShorthandN": "Сокращенный синтаксис макросов",
+  "SETTINGS.SimpleMacroShorthandL": "Включите сокращенный синтаксис макросов, который позволяет обращаться к атрибутам напрямую, например @str вместо @attributes.str.value. Отключите эту настройку, если необходимо использовать полную модель атрибутов, например @attributes.str.label.",
+  "SETTINGS.SimpleInitFormulaN": "Формула инициативы",
+  "SETTINGS.SimpleInitFormulaL": "Введите формулу инициативы, например d20+@dex",
+
+  "SIMPLE.ItemCreate": "Создать предмет",
+  "SIMPLE.ItemEdit": "Редактировать предмет",
+  "SIMPLE.ItemDelete": "Удалить предмет",
+  "SIMPLE.ItemNew": "Новый предмет",
+
+  "SIMPLE.NotifyInitFormulaUpdated": "Формула инициативы была обновлена на",
+  "SIMPLE.NotifyInitFormulaInvalid": "Формула инициативы некорректна",
+  "SIMPLE.NotifyGroupDuplicate": "Группа атрибутов уже существует.",
+  "SIMPLE.NotifyGroupAttrDuplicate": "Группа атрибутов уже существует как отдельный атрибут.",
+  "SIMPLE.NotifyGroupAlphanumeric": "Названия групп атрибутов не могут содержать пробелов или точек.",
+  "SIMPLE.NotifyGroupReserved": "Группа атрибутов \"{key}\" зарезервирована и не может быть использована.",
+  "SIMPLE.NotifyAttrDuplicate": "Ключ атрибута уже существует как группа.",
+  "SIMPLE.NotifyAttrInvalid": "Ключи атрибутов не могут содержать пробелов или точек.",
+
+  "SIMPLE.ResourceMin": "Мин",
+  "SIMPLE.ResourceValue": "Значение",
+  "SIMPLE.ResourceMax": "Макс",
+
+  "SIMPLE.DefineTemplate": "Определить как шаблон",
+  "SIMPLE.UnsetTemplate": "Убрать шаблон",
+  "SIMPLE.NoTemplate": "Без шаблона",
+
+  "SIMPLE.AttributeKey": "Ключ атрибута",
+  "SIMPLE.AttributeValue": "Значение",
+  "SIMPLE.AttributeLabel": "Метка",
+  "SIMPLE.AttributeDtype": "Тип данных",
+
+  "SIMPLE.DeleteGroup": "Удалить группу?",
+  "SIMPLE.DeleteGroupContent": "Вы хотите удалить эту группу? Это удалит следующую группу и все атрибуты, включенные в неё: ",
+
+  "SIMPLE.Create": "Создать",
+  "SIMPLE.New": "Новый"
+}
